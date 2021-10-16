@@ -13,6 +13,9 @@
 ## lub podając nazwę
 `git stash pop stash@{1}`
 
+## Przeniesienie danych z jedengo brancha do drugiego tworzonego w locie poprzez stos
+
+`git stash branch1 branch2`
 
 ## Wylistowanie stosu
 `git stash list`
