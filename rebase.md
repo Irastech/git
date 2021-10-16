@@ -1,7 +1,7 @@
 
-`git checkout master `
-`git pull`
-`git log`
+	git checkout master 
+	git pull
+	git log
 
 `git checkout feature`
 > lub 
