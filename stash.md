@@ -1,4 +1,5 @@
-# Przenoszenie między  branchami plików śledzony przez git'a 
+# Przenoszenie między przestrzeniami branchy plików śledzony przez git'a 
+
 
 ## Wrzucenie na stos z bierzącego katalogu roboczego
 `git stash push`
