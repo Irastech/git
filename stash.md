@@ -3,7 +3,7 @@
 ## Wrzucenie na stos z bierzącego katalogu roboczego
 `git stash push`
 
-##Jeśli plik został tylko zmodyfikowany, a chcemy wrzucić na stos to należy dodać falge u
+## Jeśli plik został tylko zmodyfikowany, a chcemy wrzucić na stos to należy dodać falge u
 `git stash push -u`
 
 ## Pobranie ze stos do katalogu bierzącego 
