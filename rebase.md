@@ -3,10 +3,10 @@
 	git pull
 	git log
 
-`git checkout feature`
+	git checkout feature
 > lub 
 
-`git checkout -`
+	git checkout -
 
 	git log
 	git rebase
