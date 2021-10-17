@@ -1,8 +1,6 @@
-
-        git checkout master 
-        git pull
-        git log
-
+	git checkout master
+	git pull
+	git log
 
 `git checkout feature`
 > lub 
@@ -14,4 +12,7 @@
 	git log
 	git merge master
 	git log
+	
+
+	
 
