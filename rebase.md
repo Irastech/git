@@ -3,7 +3,7 @@
 	git log
 
 `git checkout feature`
-> lub 
+> lub przełączenie się do ostatniego brancha
 
 `git checkout -`
  
